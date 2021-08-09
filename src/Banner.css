@@ -1,0 +1,12 @@
+.relative{
+    position: relative;
+    margin-bottom: -150px;
+}
+.banner{
+    position: absolute;
+    width: 100%;
+    height: 8rem;
+    bottom: 0px;
+    z-index: 1;
+    background: linear-gradient(to top, #f3f4f6, transparent);
+}
